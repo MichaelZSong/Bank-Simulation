@@ -1,6 +1,6 @@
 # Bank Simulation
 
-A simulation to calculate an approximation of the average time a customer has to wait for service from that branch's only teller and and to evaluate potential improvements if the bank hires more tellers.
+A simulation to calculate an approximation of the average time a customer has to wait for service from that branch's only teller and to evaluate potential improvements if the bank hires more tellers.
 
 ## Features
 
